@@ -8,19 +8,19 @@
 - title: 信息可视化
   url: /visualization/
   excerpt: 相关作业
-  image: infinite.gif
+  image: dog.gif
 
 - title: 网页笔记
   url: /web notes/
   excerpt: 基础不牢地动山摇
-  image: panda.jpg
+  image: panda.png
   
 - title: 信息可视化笔记
   url: /visualization notes/
   excerpt: simple就好
-  image: dog.gif
+  image: king.jpg
 
 - title: contact me
   url: /contact/
   excerpt: 离线状态
-  image: 
+  image: magic.jpg
