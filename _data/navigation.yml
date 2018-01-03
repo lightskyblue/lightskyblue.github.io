@@ -1,6 +1,12 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: learning 网页设计与制作
+  url: /web/
+  excerpt: 相关作业
+  image: 
+  
+  
+- title: learning 信息可视化
+  url: /visualization/
+  excerpt: 相关作业
+  image: 
