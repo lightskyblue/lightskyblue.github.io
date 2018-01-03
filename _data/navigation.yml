@@ -1,12 +1,22 @@
 # Site navigation links
 
-- title: learning 网页设计与制作
+- title: 网页设计与制作
   url: /web/
   excerpt: 相关作业
   image: 
   
   
-- title: learning 信息可视化
+- title: 信息可视化
   url: /visualization/
   excerpt: 相关作业
+  image: 
+
+- title: 网页笔记
+  url: /web notes/
+  excerpt: 基础不牢地动山摇
+  image: 
+  
+- title: 信息可视化笔记
+  url: /visualization notes/
+  excerpt: simple就好
   image: 
