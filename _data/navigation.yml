@@ -1,12 +1,12 @@
 # Site navigation links
 
 - title: 网页设计与制作
-  url: /web/
+  url: /rwd/
   excerpt: 相关作业
   image: infinite.gif
   
 - title: 信息可视化
-  url: /visualization/
+  url: /infovis/
   excerpt: 相关作业
   image: dog.gif
 
