@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Want"
+title: "Knowledge is power"
 ---
 
 <div class="tiles">
