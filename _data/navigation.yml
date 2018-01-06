@@ -1,22 +1,22 @@
 # Site navigation links
 
 - title: 网页设计与制作作品集
-  url: /posts/rwd/
+  url: /rwd/
   excerpt: 相关作业
   image: menu wed.png
   
 - title: 信息可视化作品集
-  url: /posts/infovis/
+  url: /infovis/
   excerpt: 相关作业
   image: 数据动图.gif
 
 - title: 网页笔记
-  url: /web notes/
+  url: /posts/rwd/
   excerpt: 基础不牢地动山摇
   image: HTML.jpg
   
 - title: 信息可视化笔记
-  url: /visualization notes/
+  url: /posts/infovis/
   excerpt: simple就好
   image: 笔记.png
 
