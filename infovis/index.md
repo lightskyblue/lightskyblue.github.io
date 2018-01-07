@@ -1,6 +1,6 @@
 ---
 layout: archive
-title:  "期末项目"
+title:  ""
 date:   2018-1-7 22:07:50 +0800
 image:
   teaser: 可视化.jpg
