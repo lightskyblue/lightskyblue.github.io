@@ -1,9 +1,0 @@
-
-<div class="tiles">
-{% for post in site.categories.infovis %}
-  {% include post-grid.html %}
-{% endfor %}
-</div>
-
-期末项目
- <a href="https://public.tableau.com/profile/loong#!/vizhome/2_2315/2_1" target="_blank"><img src="/images/可视化.jpg" width="900" height="687" border="0" /></a>
