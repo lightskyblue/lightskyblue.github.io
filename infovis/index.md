@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: archive
 title:  "期末项目"
 date:   2018-1-7 22:07:50 +0800
 image:
