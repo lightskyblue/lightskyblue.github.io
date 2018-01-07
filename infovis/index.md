@@ -2,7 +2,9 @@
 layout: archive
 title:  ""
 date:   2018-1-7 22:07:50 +0800
-image:  可视化.jpg
+image:  
+  teaser: 可视化.jpg
+  feature: 可视化.jpg
   
 excerpt: 
 ---
